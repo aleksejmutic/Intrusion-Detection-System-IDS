@@ -1,1 +1,1 @@
-A Python Intrusion Detection System that simulates SSH, HTTP, syscall events , normalizes them into a structured unified format, and prepares the data pipeline for storage, streaming, and analysis.
+A Network Telemetry Simulator that generates synthetic SSH, HTTP, and system call events, and normalizes them into a unified structured format for use in data pipelines, streaming systems, and security analysis.
