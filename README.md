@@ -1,1 +1,1 @@
-A Network Telemetry Simulator that generates synthetic SSH, HTTP, and system call events, and normalizes them into a unified structured format for use in data pipelines, streaming systems, and security analysis.
+IDS including a Network Telemetry Simulator that generates SSH, HTTP, and system call events, and normalizes them into a unified structured format for use in data pipelines, streaming systems, and security analysis.
